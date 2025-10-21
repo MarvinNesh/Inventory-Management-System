@@ -1,0 +1,3 @@
+/home/vhuhwavho/Inventory-Management-System/build/CMakeFiles/InventoryManagementSystem.dir
+/home/vhuhwavho/Inventory-Management-System/build/CMakeFiles/edit_cache.dir
+/home/vhuhwavho/Inventory-Management-System/build/CMakeFiles/rebuild_cache.dir

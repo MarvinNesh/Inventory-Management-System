@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/InventoryManagementSystem.dir/src/main.cpp.o CMakeFiles/InventoryManagementSystem.dir/src/Item.cpp.o CMakeFiles/InventoryManagementSystem.dir/src/Inventory.cpp.o -o InventoryManagementSystem 
